@@ -3,7 +3,7 @@ name = "array-map"
 group = "john"
 version = "0.1.0"
 apiVersion = "0.1.0"
-description = ""
+description = "Flatten JSON arrays into JSON objects"
 license = "Apache-2.0"
 visibility = "public"
 
